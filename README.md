@@ -201,7 +201,7 @@ Computer Science Student | Machine Learning Enthusiast
 
 - GitHub: https://github.com/anshgoyal05
 - LinkedIn: https://linkedin.com/in/anshgoyal05
-- Google Developers Profile: [https://me.developers.google.com/u/103685322764089377888](https://g.dev/anshgoyal05)
+- Google Developers Profile: https://g.dev/anshgoyal05
 
 ---
 
