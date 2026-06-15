@@ -140,9 +140,10 @@ git clone https://github.com/your-username/google-ml-crash-course.git
 
 ---
 
-## 🏆 Certificate
+## 🏅 Earned Badges
 
-The completion certificate will be added here after successfully finishing the Google Machine Learning Crash Course.
+### Linear Regression
+![Linear Regression Badge](assets/badges/linear-regression.png)
 
 ---
 
