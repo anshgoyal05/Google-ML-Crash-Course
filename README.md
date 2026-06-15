@@ -146,17 +146,6 @@ The completion certificate will be added here after successfully finishing the G
 
 ---
 
-## 👨‍💻 Author
-
-**Ansh Goyal**
-
-Computer Science Student | Machine Learning Enthusiast
-
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
-
----
-
 ## 🙏 Acknowledgements
 
 This repository follows the curriculum provided by Google's Machine Learning Crash Course (MLCC).
