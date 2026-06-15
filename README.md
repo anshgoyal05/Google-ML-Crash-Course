@@ -148,8 +148,6 @@ git clone https://github.com/your-username/google-ml-crash-course.git
 
 ---
 
----
-
 ## 🙏 Acknowledgements
 
 This repository follows the curriculum provided by Google's Machine Learning Crash Course (MLCC).
@@ -193,11 +191,19 @@ Progress Tracker
 * AutoML
 * ML Fairness
 
-Author
+---
 
-Ansh Goyal
+## 👨‍💻 Author
+
+**Ansh Goyal**
 
 Computer Science Student | Machine Learning Enthusiast
+
+- GitHub: https://github.com/anshgoyal05
+- LinkedIn: https://linkedin.com/in/anshgoyal05
+- Google Developers Profile: [https://me.developers.google.com/u/103685322764089377888](https://g.dev/anshgoyal05)
+
+---
 
 Acknowledgements
 
