@@ -143,7 +143,10 @@ git clone https://github.com/your-username/google-ml-crash-course.git
 ## 🏅 Earned Badges
 
 ### Linear Regression
-![Linear Regression Badge](assets/badges/linear-regression.png)
+
+<img src="assets/badges/linear-regression.png" alt="Linear Regression Badge" width="250">
+
+---
 
 ---
 
