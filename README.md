@@ -144,7 +144,7 @@ git clone https://github.com/your-username/google-ml-crash-course.git
 
 ### Linear Regression
 
-<img src="assets/badges/linear-regression.png" alt="Linear Regression Badge" width="250">
+<img src="assets/badges/linear-regression.svg" alt="Linear Regression Badge" width="250">
 
 ---
 
