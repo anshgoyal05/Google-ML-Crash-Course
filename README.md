@@ -63,20 +63,52 @@ The goal of this repository is to strengthen my understanding of machine learnin
 Google-ML-Crash-Course/
 │
 ├── 01-Linear-Regression/
+│   ├── Linear_Regression.ipynb
+│   └── README.md
+│
 ├── 02-Logistic-Regression/
+│   ├── Logistic_Regression.ipynb
+│   └── README.md
+│
 ├── 03-Classification/
+│   ├── Classification.ipynb
+│   └── README.md
 │
 ├── 04-Working-with-Numerical-Data/
+│   ├── Numerical_Data.ipynb
+│   └── README.md
+│
 ├── 05-Working-with-Categorical-Data/
+│   ├── Categorical_Data.ipynb
+│   └── README.md
+│
 ├── 06-Datasets-Generalization-and-Overfitting/
+│   ├── Generalization_and_Overfitting.ipynb
+│   └── README.md
 │
 ├── 07-Neural-Networks/
+│   ├── Neural_Networks.ipynb
+│   └── README.md
+│
 ├── 08-Embeddings/
+│   ├── Embeddings.ipynb
+│   └── README.md
+│
 ├── 09-Intro-to-Large-Language-Models/
+│   ├── Intro_to_LLMs.ipynb
+│   └── README.md
 │
 ├── 10-Production-ML-Systems/
+│   ├── Production_ML_Systems.ipynb
+│   └── README.md
+│
 ├── 11-AutoML/
+│   ├── AutoML.ipynb
+│   └── README.md
+│
 ├── 12-ML-Fairness/
+│   ├── ML_Fairness.ipynb
+│   └── README.md
 │
 ├── Notes/
 └── README.md
