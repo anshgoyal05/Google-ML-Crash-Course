@@ -79,7 +79,6 @@ Google-ML-Crash-Course/
 ├── 12-ML-Fairness/
 │
 ├── Notes/
-├── Resources/
 └── README.md
 ```
 
