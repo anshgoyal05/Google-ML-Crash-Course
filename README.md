@@ -67,7 +67,6 @@ Google-ML-Crash-Course/
 │   └── README.md
 │
 ├── 02-Logistic-Regression/
-│   ├── Logistic_Regression.ipynb
 │   └── README.md
 │
 ├── 03-Classification/
