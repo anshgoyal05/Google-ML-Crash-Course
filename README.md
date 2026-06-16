@@ -141,11 +141,22 @@ git clone https://github.com/your-username/google-ml-crash-course.git
 
 ## 🏅 Earned Badges
 
-### Linear Regression
-
-<img src="assets/badges/linear-regression.svg" alt="Linear Regression Badge" width="250">
-<img src="assets/badges/logistic-regression.svg" alt="Logistic Regression Badge" width="250">
-<img src="assets/badges/classification-regression.svg" alt="Classification Regression Badge" width="250">
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/badges/linear-regression.svg" alt="Linear Regression Badge" width="250"><br>
+      <b>Linear Regression</b>
+    </td>
+    <td align="center">
+      <img src="assets/badges/logistic-regression.svg" alt="Logistic Regression Badge" width="250"><br>
+      <b>Logistic Regression</b>
+    </td>
+    <td align="center">
+      <img src="assets/badges/classification.svg" alt="Classification Badge" width="250"><br>
+      <b>Classification</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
