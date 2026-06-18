@@ -281,6 +281,7 @@ All Features Model
 
 Course Information
 
-Course: Google Machine Learning Crash Course (MLCC)
-Module: Classification
-Author: Ansh Goyal
+- **Course:** Google Machine Learning Crash Course (MLCC)
+- **Module:** ML
+- **Subtopic:** Classification
+
