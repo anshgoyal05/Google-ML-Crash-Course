@@ -155,5 +155,5 @@ Benefits:
 ## Course Information
 
 - **Course:** Google Machine Learning Crash Course (MLCC)  
-- **Module:** ML
+- **Module:** ML Models
 - **Subtopic:** Logistic Regression
