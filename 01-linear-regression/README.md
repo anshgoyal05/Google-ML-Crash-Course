@@ -115,6 +115,6 @@ Lower RMSE values indicate better prediction accuracy.
 
 ### Course Information
 
-**Course:** Google Machine Learning Crash Course (MLCC)  
-**Module:** ML
-**Subtopic:** Linear Regression
+- **Course:** Google Machine Learning Crash Course (MLCC)  
+- **Module:** ML
+- **Subtopic:** Linear Regression
