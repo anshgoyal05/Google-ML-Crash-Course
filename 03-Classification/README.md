@@ -282,6 +282,6 @@ All Features Model
 Course Information
 
 - **Course:** Google Machine Learning Crash Course (MLCC)
-- **Module:** ML
+- **Module:** ML Models
 - **Subtopic:** Classification
 
