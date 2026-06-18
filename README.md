@@ -138,7 +138,7 @@ Google-ML-Crash-Course/
 
 ### Data
 
-- [ ] Working with Numerical Data
+- [x] Working with Numerical Data
 - [ ] Working with Categorical Data
 - [ ] Datasets, Generalization, and Overfitting
 
@@ -175,15 +175,19 @@ git clone https://github.com/your-username/google-ml-crash-course.git
 <table>
   <tr>
     <td align="center">
-      <img src="assets/badges/linear-regression.svg" alt="Linear Regression Badge" width="250"><br>
+      <img src="assets/badges/linear-regression.svg" alt="Linear Regression Badge" width="200"><br>
       <b>Linear Regression</b>
     </td>
     <td align="center">
-      <img src="assets/badges/logistic-regression.svg" alt="Logistic Regression Badge" width="250"><br>
+      <img src="assets/badges/logistic-regression.svg" alt="Logistic Regression Badge" width="200"><br>
       <b>Logistic Regression</b>
     </td>
     <td align="center">
-      <img src="assets/badges/classification.svg" alt="Classification Badge" width="250"><br>
+      <img src="assets/badges/classification.svg" alt="Classification Badge" width="200"><br>
+      <b>Classification</b>
+    </td>
+    <td align="center">
+      <img src="assets/badges/numerical_data.svg" alt="Numerical Data Badge" width="200"><br>
       <b>Classification</b>
     </td>
   </tr>
