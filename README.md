@@ -188,7 +188,7 @@ git clone https://github.com/your-username/google-ml-crash-course.git
     </td>
     <td align="center">
       <img src="assets/badges/numerical_data.svg" alt="Numerical Data Badge" width="200"><br>
-      <b>Classification</b>
+      <b>Numerical Data</b>
     </td>
   </tr>
 </table>
