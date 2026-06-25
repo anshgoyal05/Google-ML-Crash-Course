@@ -139,7 +139,7 @@ Google-ML-Crash-Course/
 ### Data
 
 - [x] Working with Numerical Data
-- [ ] Working with Categorical Data
+- [x] Working with Categorical Data
 - [ ] Datasets, Generalization, and Overfitting
 
 ### Advanced ML Models
@@ -161,7 +161,7 @@ Google-ML-Crash-Course/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/google-ml-crash-course.git
+git clone https://github.com/anshgoyal05/Google-ML-Crash-Course.git
 ```
 
 2. Open the notebooks in Google Colab.
@@ -189,6 +189,10 @@ git clone https://github.com/your-username/google-ml-crash-course.git
     <td align="center">
       <img src="assets/badges/numerical_data.svg" alt="Numerical Data Badge" width="200"><br>
       <b>Numerical Data</b>
+    </td>
+     <td align="center">
+      <img src="assets/badges/categorical_data.svg" alt="Categorical Data Badge" width="200"><br>
+      <b>Categorical Data</b>
     </td>
   </tr>
 </table>
