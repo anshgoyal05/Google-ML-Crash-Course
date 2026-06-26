@@ -172,34 +172,39 @@ git clone https://github.com/anshgoyal05/Google-ML-Crash-Course.git
 
 ## 🏅 Earned Badges
 
-<table>
+<table align="center">
   <tr>
-    <td align="center">
-      <img src="assets/badges/linear-regression.svg" alt="Linear Regression Badge" width="200" height="200"><br>
+    <td align="center" width="220">
+      <img src="assets/badges/linear-regression.svg" alt="Linear Regression Badge" width="170"><br><br>
       <b>Linear Regression</b>
     </td>
-    <td align="center">
-      <img src="assets/badges/logistic-regression.svg" alt="Logistic Regression Badge" width="200" height="200"><br>
+    <td align="center" width="220">
+      <img src="assets/badges/logistic-regression.svg" alt="Logistic Regression Badge" width="170"><br><br>
       <b>Logistic Regression</b>
     </td>
-    <td align="center">
-      <img src="assets/badges/classification.svg" alt="Classification Badge" width="200" height="200"><br>
+    <td align="center" width="220">
+      <img src="assets/badges/classification.svg" alt="Classification Badge" width="170"><br><br>
       <b>Classification</b>
     </td>
-    <td align="center">
-      <img src="assets/badges/numerical_data.svg" alt="Numerical Data Badge" width="200" height="200"><br>
+    <td align="center" width="220">
+      <img src="assets/badges/numerical_data.svg" alt="Numerical Data Badge" width="170"><br><br>
       <b>Numerical Data</b>
     </td>
-    <td align="center">
-      <img src="assets/badges/categorical_data.svg" alt="Categorical Data Badge" width="200" height="200"><br>
+    <td align="center" width="220">
+      <img src="assets/badges/categorical_data.svg" alt="Categorical Data Badge" width="170"><br><br>
       <b>Categorical Data</b>
     </td>
   </tr>
+
   <tr>
-    <td align="center">
-      <img src="assets/badges/Datasets-Generalization-and-Overfitting.svg" alt="Datasets, Generalization and Overfitting Badge" width="200" height="200"><br>
-      <b>Datasets, Generalization and Overfitting</b>
+    <td colspan="2"></td>
+    <td align="center" width="220">
+      <img src="assets/badges/Datasets-Generalization-and-Overfitting.svg"
+           alt="Datasets, Generalization and Overfitting Badge"
+           width="170"><br><br>
+      <b>Datasets, Generalization<br>and Overfitting</b>
     </td>
+    <td colspan="2"></td>
   </tr>
 </table>
 ---
