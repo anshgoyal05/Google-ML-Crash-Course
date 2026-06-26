@@ -140,7 +140,7 @@ Google-ML-Crash-Course/
 
 - [x] Working with Numerical Data
 - [x] Working with Categorical Data
-- [ ] Datasets, Generalization, and Overfitting
+- [x] Datasets, Generalization, and Overfitting
 
 ### Advanced ML Models
 
@@ -190,9 +190,15 @@ git clone https://github.com/anshgoyal05/Google-ML-Crash-Course.git
       <img src="assets/badges/numerical_data.svg" alt="Numerical Data Badge" width="200"><br>
       <b>Numerical Data</b>
     </td>
-     <td align="center">
+    <td align="center">
       <img src="assets/badges/categorical_data.svg" alt="Categorical Data Badge" width="200"><br>
       <b>Categorical Data</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/badges/Datasets-Generalization-and-Overfitting.svg" alt="Datasets, Generalization and Overfitting Badge" width="200"><br>
+      <b>Datasets, Generalization and Overfitting</b>
     </td>
   </tr>
 </table>
